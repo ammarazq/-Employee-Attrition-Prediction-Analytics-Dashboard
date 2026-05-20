@@ -62,7 +62,7 @@ Dashboard yang telah dibuat berisi visualisasi untuk menjawab pertanyaan berikut
 6. Apakah ada perbedaan tingkat attrition berdasarkan bidang pendidikan?
 7. Apakah departmen dari karyawan bekerja berpengaruh terhadap attrition?
 
-![Dashboard] (./dashboard.jpg)
+![Dashboard](./dashboard.jpg)
 
 
 ## Conclusion
